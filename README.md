@@ -11,3 +11,7 @@ What can you do from here:
 * Create any view and folow the `widow` and LESS standard.
 
 * ...
+
+
+Taked and modified from:
+https://github.com/mariowise/rails-bootstrap-boilerplate
